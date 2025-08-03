@@ -1,0 +1,14 @@
+D:\C# Çalışmaları\BMİ\BodyMassİndex\BodyMassİndex\bin\Debug\net8.0\BodyMassİndex.exe
+D:\C# Çalışmaları\BMİ\BodyMassİndex\BodyMassİndex\bin\Debug\net8.0\BodyMassİndex.deps.json
+D:\C# Çalışmaları\BMİ\BodyMassİndex\BodyMassİndex\bin\Debug\net8.0\BodyMassİndex.runtimeconfig.json
+D:\C# Çalışmaları\BMİ\BodyMassİndex\BodyMassİndex\bin\Debug\net8.0\BodyMassİndex.dll
+D:\C# Çalışmaları\BMİ\BodyMassİndex\BodyMassİndex\bin\Debug\net8.0\BodyMassİndex.pdb
+D:\C# Çalışmaları\BMİ\BodyMassİndex\BodyMassİndex\obj\Debug\net8.0\BodyMassİndex.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Çalışmaları\BMİ\BodyMassİndex\BodyMassİndex\obj\Debug\net8.0\BodyMassİndex.AssemblyInfoInputs.cache
+D:\C# Çalışmaları\BMİ\BodyMassİndex\BodyMassİndex\obj\Debug\net8.0\BodyMassİndex.AssemblyInfo.cs
+D:\C# Çalışmaları\BMİ\BodyMassİndex\BodyMassİndex\obj\Debug\net8.0\BodyMassİndex.csproj.CoreCompileInputs.cache
+D:\C# Çalışmaları\BMİ\BodyMassİndex\BodyMassİndex\obj\Debug\net8.0\BodyMassİndex.dll
+D:\C# Çalışmaları\BMİ\BodyMassİndex\BodyMassİndex\obj\Debug\net8.0\refint\BodyMassİndex.dll
+D:\C# Çalışmaları\BMİ\BodyMassİndex\BodyMassİndex\obj\Debug\net8.0\BodyMassİndex.pdb
+D:\C# Çalışmaları\BMİ\BodyMassİndex\BodyMassİndex\obj\Debug\net8.0\BodyMassİndex.genruntimeconfig.cache
+D:\C# Çalışmaları\BMİ\BodyMassİndex\BodyMassİndex\obj\Debug\net8.0\ref\BodyMassİndex.dll
