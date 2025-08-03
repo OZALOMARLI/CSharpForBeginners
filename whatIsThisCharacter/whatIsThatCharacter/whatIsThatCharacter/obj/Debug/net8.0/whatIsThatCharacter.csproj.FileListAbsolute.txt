@@ -1,0 +1,14 @@
+D:\C# Çalışmaları\whatIsThisCharacter\whatIsThatCharacter\whatIsThatCharacter\bin\Debug\net8.0\whatIsThatCharacter.exe
+D:\C# Çalışmaları\whatIsThisCharacter\whatIsThatCharacter\whatIsThatCharacter\bin\Debug\net8.0\whatIsThatCharacter.deps.json
+D:\C# Çalışmaları\whatIsThisCharacter\whatIsThatCharacter\whatIsThatCharacter\bin\Debug\net8.0\whatIsThatCharacter.runtimeconfig.json
+D:\C# Çalışmaları\whatIsThisCharacter\whatIsThatCharacter\whatIsThatCharacter\bin\Debug\net8.0\whatIsThatCharacter.dll
+D:\C# Çalışmaları\whatIsThisCharacter\whatIsThatCharacter\whatIsThatCharacter\bin\Debug\net8.0\whatIsThatCharacter.pdb
+D:\C# Çalışmaları\whatIsThisCharacter\whatIsThatCharacter\whatIsThatCharacter\obj\Debug\net8.0\whatIsThatCharacter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Çalışmaları\whatIsThisCharacter\whatIsThatCharacter\whatIsThatCharacter\obj\Debug\net8.0\whatIsThatCharacter.AssemblyInfoInputs.cache
+D:\C# Çalışmaları\whatIsThisCharacter\whatIsThatCharacter\whatIsThatCharacter\obj\Debug\net8.0\whatIsThatCharacter.AssemblyInfo.cs
+D:\C# Çalışmaları\whatIsThisCharacter\whatIsThatCharacter\whatIsThatCharacter\obj\Debug\net8.0\whatIsThatCharacter.csproj.CoreCompileInputs.cache
+D:\C# Çalışmaları\whatIsThisCharacter\whatIsThatCharacter\whatIsThatCharacter\obj\Debug\net8.0\whatIsThatCharacter.dll
+D:\C# Çalışmaları\whatIsThisCharacter\whatIsThatCharacter\whatIsThatCharacter\obj\Debug\net8.0\refint\whatIsThatCharacter.dll
+D:\C# Çalışmaları\whatIsThisCharacter\whatIsThatCharacter\whatIsThatCharacter\obj\Debug\net8.0\whatIsThatCharacter.pdb
+D:\C# Çalışmaları\whatIsThisCharacter\whatIsThatCharacter\whatIsThatCharacter\obj\Debug\net8.0\whatIsThatCharacter.genruntimeconfig.cache
+D:\C# Çalışmaları\whatIsThisCharacter\whatIsThatCharacter\whatIsThatCharacter\obj\Debug\net8.0\ref\whatIsThatCharacter.dll
